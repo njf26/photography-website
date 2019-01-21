@@ -3,18 +3,17 @@
 For this lab, you will create a basic website for a photographer using
 HTML and CSS. The website you build must include:
 
-* A menu that appears on all pages.
+* A responsive Bootstrap menu that appears on all pages. 
 
 * A footer that appears on all pages, which includes the URL to your
   GitHub repository on GitHub classroom. This should be a private
   repository that only you and the TAs can access.
 
-* A home page that introduces the viewer to the photographer, using
-  a large image.
+* A home page that introduces the viewer to the photographer.
 
 * A portfolio page that showcases 9 or 10 images from the
-  photographer, using a CSS Grid layout to put them into a
-  grid.
+  photographer, using the Bootstrap grid, the CSS Grid, a masonry CSS
+  layout, or some other technology to arrange the photos.
 
 * A reviews page that lists reviews from customers, each in a separate
   paragraph and using styles to separate them (white space, lines,
@@ -22,9 +21,6 @@ HTML and CSS. The website you build must include:
 
 * An about page that includes a photo of the photographer and tells the
   visitor a little about him or her.
-
-* A contact page with a form that will let a visitor email the photographer
-  to ask questions or setup an appointment.
 
 There are many photographer web pages you can find with Google. Here
 is an example of a basic page with some of the features you will
@@ -50,43 +46,24 @@ new repository for you and grant you access to it on github. In order
 to start working on the lab, simply clone the repository to your laptop
 or other working environment.
 
-## CSS Grid layout
+## Tutorial
 
-To learn how to make a simple grid, see [this article on getting
-started](https://css-tricks.com/getting-started-css-grid/) and see
-[this tutorial](http://cssgridgarden.com/). You make also like [this
-tutorial at
-Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout).
-
-## Contact form
-
-To make a contact form, you should use the service at
-[formspree.io](https://formspree.io/). This will let you make a simple
-form that you can submit using their web server, and they will send
-you email every time someone fills out the form.
-
-If you would like to learn more about forms, see [this tutorial at
-Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form).
+Use the [tutorial]https://github.com/BYU-CS-260-Winter-2019/lab1/wiki
+in the Wiki for tips on using Bootstrap and creating grid layouts.
 
 ## Web design criteria
 
 When judging the style of pages, we will use the web design principles
-discussed on in the [Web Design Principles](https://byu.instructure.com/courses/1753/pages/web-design-principles) page on Canvas. These include:
+discussed on the Web Design Principles page on Canvas.  Please be sure
+to review this. The most important principles are:
 
-* Usability
-* Navigation
-* Focus
-* Spacing
-* Color
-* Graphics
-* Typography
-* Alignment
-* Consistency
-* Mobile First
-* Engagement
-
-We will *not* be judging mobile first (responsive) design for this
-lab.
+* navigation -- make the menu system simple and consistent 
+* spacing -- use white space effectively to make the site clearer
+* color -- use color effectively to make the site appealing
+* typography --  make it pleasant to read
+* consistency: everything should match
+* responsive design -- the site should work as well on mobile as on
+  desktops; mobile-first designs for mobile, then expands to desktop 
 
 ## Submission
 
@@ -100,7 +77,12 @@ rubric:
 
 Item | Points
 --- | ---
-Has sufficient HTML content on every page (10 points per page) | 50
-Has a working contact form | 30
-Uses good web design principles | 20
+Has sufficient HTML content on every page (10 points per page) | 40 
+Has a working Bootstrap menu that is customized (not the default look) | 30
+Has a grid layout for photos | 20
+Uses good web design principles | 10
 
+For the web design principles, you will receive 2 points for each for
+spacing, typography, color, consistency, and responsive design. We
+will subtract 1 point for a principle if you need some work, 2 points
+if you need a lot of work.
