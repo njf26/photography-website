@@ -48,7 +48,7 @@ or other working environment.
 
 ## Tutorial
 
-Use the [tutorial]https://github.com/BYU-CS-260-Winter-2019/lab1/wiki
+Use the [tutorial](https://github.com/BYU-CS-260-Winter-2019/lab1/wiki)
 in the Wiki for tips on using Bootstrap and creating grid layouts.
 
 ## Web design criteria
