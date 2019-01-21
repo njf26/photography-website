@@ -61,7 +61,7 @@ to review this. The most important principles are:
 * spacing -- use white space effectively to make the site clearer
 * color -- use color effectively to make the site appealing
 * typography --  make it pleasant to read
-* consistency: everything should match
+* consistency --  everything should match
 * responsive design -- the site should work as well on mobile as on
   desktops; mobile-first designs for mobile, then expands to desktop 
 
