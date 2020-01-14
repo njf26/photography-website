@@ -1,5 +1,5 @@
 
-For this part, you're going to learn how to use the [Bootstrap](https://getbootstrap.com/) library to build a menu for a website.
+In this part of the lab, you're going to learn how to use the [Bootstrap](https://getbootstrap.com/) library to build a menu for a website.
 
 ## Preface
 
