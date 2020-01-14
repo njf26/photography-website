@@ -37,7 +37,7 @@ the Creative Commons license.
 ## Starting the lab
 
 To start the lab, you **must** follow this
-[GitHub Classroom link](https://classroom.github.com/a/nawbGKji). This
+[GitHub Classroom link](https://classroom.github.com/a/dPFNTp24). This
 will create a private repository for you using our classroom site. We
 will only grade repositories created and submitted this way.
 
