@@ -1,4 +1,4 @@
-# Lab 1 : Photographer's Website
+Photographer's Website
 
 For this lab, you will create a basic website for a photographer using
 HTML and CSS. The website you build must include:
@@ -51,11 +51,18 @@ or other working environment.
 Use the [tutorial](https://github.com/BYU-CS-260-Winter-2019/lab1/wiki)
 in the Wiki for tips on using Bootstrap and creating grid layouts.
 
+## Style Requirements
+
+You must create your own style using hand-coded CSS. You are welcome to
+look at designs of other websites or at template sites such as Bootstrap
+Templates. However, you **may not** directly copy an existing style. Instead,
+draw inspiration from it and then write your own CSS styles.
+
 ## Web design criteria
 
 When judging the style of pages, we will use the web design principles
-discussed on the Web Design Principles page on Canvas.  Please be sure
-to review this. The most important principles are:
+discussed listed below.  Please be sure to review the principles.
+The most important principles are:
 
 * navigation -- make the menu system simple and consistent 
 * spacing -- use white space effectively to make the site clearer
