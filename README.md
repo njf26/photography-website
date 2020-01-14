@@ -3,7 +3,7 @@
 For this lab, you will create a basic website for a photographer using
 HTML and CSS. The website you build must include:
 
-* A responsive Bootstrap menu that appears on all pages. 
+* A responsive Bootstrap menu that appears on all pages.
 
 * A footer that appears on all pages, which includes the URL to your
   GitHub repository on GitHub classroom. This should be a private
@@ -48,8 +48,8 @@ or other working environment.
 
 ## Tutorial
 
-Use the [tutorial](https://github.com/BYU-CS-260-Winter-2019/lab1/wiki)
-in the Wiki for tips on using Bootstrap and creating grid layouts.
+Use the [tutorials](/tutorials/README.md)
+for tips on using Bootstrap and creating grid layouts.
 
 ## Style Requirements
 
@@ -64,13 +64,13 @@ When judging the style of pages, we will use the web design principles
 discussed listed below.  Please be sure to review the principles.
 The most important principles are:
 
-* navigation -- make the menu system simple and consistent 
+* navigation -- make the menu system simple and consistent
 * spacing -- use white space effectively to make the site clearer
 * color -- use color effectively to make the site appealing
 * typography --  make it pleasant to read
 * consistency --  everything should match
 * responsive design -- the site should work as well on mobile as on
-  desktops; mobile-first designs for mobile, then expands to desktop 
+  desktops; mobile-first designs for mobile, then expands to desktop
 
 ## Submission
 
@@ -84,7 +84,7 @@ rubric:
 
 Item | Points
 --- | ---
-Has sufficient HTML content on every page (10 points per page) | 40 
+Has sufficient HTML content on every page (10 points per page) | 40
 Has a working Bootstrap menu that is customized (not the default look) | 30
 Has a grid layout for photos | 20
 Uses good web design principles | 10
